@@ -1,0 +1,12 @@
+name: sindhudurg-uhi
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - rasterio
+  - geopandas
+  - pyproj
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
